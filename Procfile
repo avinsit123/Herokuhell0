@@ -1,1 +1,1 @@
-web: python TestDeploy-o/app.py runserver 127.0.0.0:5000
+web: python TestDeploy-o/app.py 
